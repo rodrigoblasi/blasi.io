@@ -4,6 +4,7 @@ body{
     background: url(bg.png) repeat;
   }
   .box{
+    /* Propriedades adicionadas pelo Joao em 14.04.2022 */
     display: flex;
     flex-direction: column;
     align-items: center;
